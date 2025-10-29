@@ -105,10 +105,8 @@ h4 {
     padding-bottom: 10px;
 }
 
-/* --- LAYOUT CONTAINER (Mobile-First) --- */
-
 main {
-    padding: 0 16px 30px; /* Horizontal padding for main content areas */
+    padding: 0 16px 30px;
 }
 
 section {
